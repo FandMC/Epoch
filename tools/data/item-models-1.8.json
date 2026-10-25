@@ -1,0 +1,5532 @@
+{
+  "source": {
+    "version": "1.8.9",
+    "clientJarSha1": "3870888a6c3d349d3771a3e9d16c9bf5e076b908"
+  },
+  "variants": {
+    "1:0": {
+      "model": "minecraft:stone",
+      "translation": "tile.stone.stone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "1:1": {
+      "model": "minecraft:granite",
+      "translation": "tile.stone.granite.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "1:2": {
+      "model": "minecraft:granite_smooth",
+      "translation": "tile.stone.graniteSmooth.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "1:3": {
+      "model": "minecraft:diorite",
+      "translation": "tile.stone.diorite.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "1:4": {
+      "model": "minecraft:diorite_smooth",
+      "translation": "tile.stone.dioriteSmooth.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "1:5": {
+      "model": "minecraft:andesite",
+      "translation": "tile.stone.andesite.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "1:6": {
+      "model": "minecraft:andesite_smooth",
+      "translation": "tile.stone.andesiteSmooth.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2:0": {
+      "model": "minecraft:grass",
+      "translation": "tile.grass.name",
+      "colors": [
+        0,
+        0,
+        0
+      ]
+    },
+    "3:0": {
+      "model": "minecraft:dirt",
+      "translation": "tile.dirt.default.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "3:1": {
+      "model": "minecraft:coarse_dirt",
+      "translation": "tile.dirt.coarse.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "3:2": {
+      "model": "minecraft:podzol",
+      "translation": "tile.dirt.podzol.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "4:0": {
+      "model": "minecraft:cobblestone",
+      "translation": "tile.stonebrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "5:0": {
+      "model": "minecraft:oak_planks",
+      "translation": "tile.wood.oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "5:1": {
+      "model": "minecraft:spruce_planks",
+      "translation": "tile.wood.spruce.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "5:2": {
+      "model": "minecraft:birch_planks",
+      "translation": "tile.wood.birch.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "5:3": {
+      "model": "minecraft:jungle_planks",
+      "translation": "tile.wood.jungle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "5:4": {
+      "model": "minecraft:acacia_planks",
+      "translation": "tile.wood.acacia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "5:5": {
+      "model": "minecraft:dark_oak_planks",
+      "translation": "tile.wood.big_oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "6:0": {
+      "model": "minecraft:oak_sapling",
+      "translation": "tile.sapling.oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "6:1": {
+      "model": "minecraft:spruce_sapling",
+      "translation": "tile.sapling.spruce.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "6:2": {
+      "model": "minecraft:birch_sapling",
+      "translation": "tile.sapling.birch.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "6:3": {
+      "model": "minecraft:jungle_sapling",
+      "translation": "tile.sapling.jungle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "6:4": {
+      "model": "minecraft:acacia_sapling",
+      "translation": "tile.sapling.acacia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "6:5": {
+      "model": "minecraft:dark_oak_sapling",
+      "translation": "tile.sapling.big_oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "7:0": {
+      "model": "minecraft:bedrock",
+      "translation": "tile.bedrock.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "12:0": {
+      "model": "minecraft:sand",
+      "translation": "tile.sand.default.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "12:1": {
+      "model": "minecraft:red_sand",
+      "translation": "tile.sand.red.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "13:0": {
+      "model": "minecraft:gravel",
+      "translation": "tile.gravel.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "14:0": {
+      "model": "minecraft:gold_ore",
+      "translation": "tile.oreGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "15:0": {
+      "model": "minecraft:iron_ore",
+      "translation": "tile.oreIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "16:0": {
+      "model": "minecraft:coal_ore",
+      "translation": "tile.oreCoal.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "17:0": {
+      "model": "minecraft:oak_log",
+      "translation": "tile.log.oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "17:1": {
+      "model": "minecraft:spruce_log",
+      "translation": "tile.log.spruce.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "17:2": {
+      "model": "minecraft:birch_log",
+      "translation": "tile.log.birch.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "17:3": {
+      "model": "minecraft:jungle_log",
+      "translation": "tile.log.jungle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "18:0": {
+      "model": "minecraft:oak_leaves",
+      "translation": "tile.leaves.oak.name",
+      "colors": [
+        4764952,
+        4764952,
+        4764952
+      ]
+    },
+    "18:1": {
+      "model": "minecraft:spruce_leaves",
+      "translation": "tile.leaves.spruce.name",
+      "colors": [
+        6396257,
+        6396257,
+        6396257
+      ]
+    },
+    "18:2": {
+      "model": "minecraft:birch_leaves",
+      "translation": "tile.leaves.birch.name",
+      "colors": [
+        8431445,
+        8431445,
+        8431445
+      ]
+    },
+    "18:3": {
+      "model": "minecraft:jungle_leaves",
+      "translation": "tile.leaves.jungle.name",
+      "colors": [
+        4764952,
+        4764952,
+        4764952
+      ]
+    },
+    "19:0": {
+      "model": "minecraft:sponge",
+      "translation": "tile.sponge.dry.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "19:1": {
+      "model": "minecraft:sponge_wet",
+      "translation": "tile.sponge.wet.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "20:0": {
+      "model": "minecraft:glass",
+      "translation": "tile.glass.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "21:0": {
+      "model": "minecraft:lapis_ore",
+      "translation": "tile.oreLapis.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "22:0": {
+      "model": "minecraft:lapis_block",
+      "translation": "tile.blockLapis.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "23:0": {
+      "model": "minecraft:dispenser",
+      "translation": "tile.dispenser.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "24:0": {
+      "model": "minecraft:sandstone",
+      "translation": "tile.sandStone.default.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "24:1": {
+      "model": "minecraft:chiseled_sandstone",
+      "translation": "tile.sandStone.chiseled.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "24:2": {
+      "model": "minecraft:smooth_sandstone",
+      "translation": "tile.sandStone.smooth.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "25:0": {
+      "model": "minecraft:noteblock",
+      "translation": "tile.musicBlock.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "27:0": {
+      "model": "minecraft:golden_rail",
+      "translation": "tile.goldenRail.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "28:0": {
+      "model": "minecraft:detector_rail",
+      "translation": "tile.detectorRail.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "29:0": {
+      "model": "minecraft:sticky_piston",
+      "translation": "tile.pistonStickyBase.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "30:0": {
+      "model": "minecraft:web",
+      "translation": "tile.web.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "31:0": {
+      "model": "minecraft:dead_bush",
+      "translation": "tile.tallgrass.shrub.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "31:1": {
+      "model": "minecraft:tall_grass",
+      "translation": "tile.tallgrass.grass.name",
+      "colors": [
+        0,
+        0,
+        0
+      ]
+    },
+    "31:2": {
+      "model": "minecraft:fern",
+      "translation": "tile.tallgrass.fern.name",
+      "colors": [
+        0,
+        0,
+        0
+      ]
+    },
+    "32:0": {
+      "model": "minecraft:dead_bush",
+      "translation": "tile.deadbush.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "33:0": {
+      "model": "minecraft:piston",
+      "translation": "tile.pistonBase.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:0": {
+      "model": "minecraft:white_wool",
+      "translation": "tile.cloth.white.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:1": {
+      "model": "minecraft:orange_wool",
+      "translation": "tile.cloth.orange.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:2": {
+      "model": "minecraft:magenta_wool",
+      "translation": "tile.cloth.magenta.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:3": {
+      "model": "minecraft:light_blue_wool",
+      "translation": "tile.cloth.lightBlue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:4": {
+      "model": "minecraft:yellow_wool",
+      "translation": "tile.cloth.yellow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:5": {
+      "model": "minecraft:lime_wool",
+      "translation": "tile.cloth.lime.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:6": {
+      "model": "minecraft:pink_wool",
+      "translation": "tile.cloth.pink.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:7": {
+      "model": "minecraft:gray_wool",
+      "translation": "tile.cloth.gray.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:8": {
+      "model": "minecraft:silver_wool",
+      "translation": "tile.cloth.silver.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:9": {
+      "model": "minecraft:cyan_wool",
+      "translation": "tile.cloth.cyan.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:10": {
+      "model": "minecraft:purple_wool",
+      "translation": "tile.cloth.purple.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:11": {
+      "model": "minecraft:blue_wool",
+      "translation": "tile.cloth.blue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:12": {
+      "model": "minecraft:brown_wool",
+      "translation": "tile.cloth.brown.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:13": {
+      "model": "minecraft:green_wool",
+      "translation": "tile.cloth.green.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:14": {
+      "model": "minecraft:red_wool",
+      "translation": "tile.cloth.red.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "35:15": {
+      "model": "minecraft:black_wool",
+      "translation": "tile.cloth.black.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "37:0": {
+      "model": "minecraft:dandelion",
+      "translation": "tile.flower1.dandelion.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:0": {
+      "model": "minecraft:poppy",
+      "translation": "tile.flower2.poppy.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:1": {
+      "model": "minecraft:blue_orchid",
+      "translation": "tile.flower2.blueOrchid.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:2": {
+      "model": "minecraft:allium",
+      "translation": "tile.flower2.allium.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:3": {
+      "model": "minecraft:houstonia",
+      "translation": "tile.flower2.houstonia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:4": {
+      "model": "minecraft:red_tulip",
+      "translation": "tile.flower2.tulipRed.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:5": {
+      "model": "minecraft:orange_tulip",
+      "translation": "tile.flower2.tulipOrange.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:6": {
+      "model": "minecraft:white_tulip",
+      "translation": "tile.flower2.tulipWhite.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:7": {
+      "model": "minecraft:pink_tulip",
+      "translation": "tile.flower2.tulipPink.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "38:8": {
+      "model": "minecraft:oxeye_daisy",
+      "translation": "tile.flower2.oxeyeDaisy.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "39:0": {
+      "model": "minecraft:brown_mushroom",
+      "translation": "tile.mushroom.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "40:0": {
+      "model": "minecraft:red_mushroom",
+      "translation": "tile.mushroom.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "41:0": {
+      "model": "minecraft:gold_block",
+      "translation": "tile.blockGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "42:0": {
+      "model": "minecraft:iron_block",
+      "translation": "tile.blockIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "44:0": {
+      "model": "minecraft:stone_slab",
+      "translation": "tile.stoneSlab.stone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "44:1": {
+      "model": "minecraft:sandstone_slab",
+      "translation": "tile.stoneSlab.sand.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "44:3": {
+      "model": "minecraft:cobblestone_slab",
+      "translation": "tile.stoneSlab.cobble.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "44:4": {
+      "model": "minecraft:brick_slab",
+      "translation": "tile.stoneSlab.brick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "44:5": {
+      "model": "minecraft:stone_brick_slab",
+      "translation": "tile.stoneSlab.smoothStoneBrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "44:6": {
+      "model": "minecraft:nether_brick_slab",
+      "translation": "tile.stoneSlab.netherBrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "44:7": {
+      "model": "minecraft:quartz_slab",
+      "translation": "tile.stoneSlab.quartz.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "45:0": {
+      "model": "minecraft:brick_block",
+      "translation": "tile.brick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "46:0": {
+      "model": "minecraft:tnt",
+      "translation": "tile.tnt.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "47:0": {
+      "model": "minecraft:bookshelf",
+      "translation": "tile.bookshelf.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "48:0": {
+      "model": "minecraft:mossy_cobblestone",
+      "translation": "tile.stoneMoss.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "49:0": {
+      "model": "minecraft:obsidian",
+      "translation": "tile.obsidian.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "50:0": {
+      "model": "minecraft:torch",
+      "translation": "tile.torch.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "52:0": {
+      "model": "minecraft:mob_spawner",
+      "translation": "tile.mobSpawner.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "53:0": {
+      "model": "minecraft:oak_stairs",
+      "translation": "tile.stairsWood.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "54:0": {
+      "model": "minecraft:chest",
+      "translation": "tile.chest.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "56:0": {
+      "model": "minecraft:diamond_ore",
+      "translation": "tile.oreDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "57:0": {
+      "model": "minecraft:diamond_block",
+      "translation": "tile.blockDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "58:0": {
+      "model": "minecraft:crafting_table",
+      "translation": "tile.workbench.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "60:0": {
+      "translation": "tile.farmland.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "61:0": {
+      "model": "minecraft:furnace",
+      "translation": "tile.furnace.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "62:0": {
+      "translation": "tile.furnace.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "65:0": {
+      "model": "minecraft:ladder",
+      "translation": "tile.ladder.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "66:0": {
+      "model": "minecraft:rail",
+      "translation": "tile.rail.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "67:0": {
+      "model": "minecraft:stone_stairs",
+      "translation": "tile.stairsStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "69:0": {
+      "model": "minecraft:lever",
+      "translation": "tile.lever.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "70:0": {
+      "model": "minecraft:stone_pressure_plate",
+      "translation": "tile.pressurePlateStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "72:0": {
+      "model": "minecraft:wooden_pressure_plate",
+      "translation": "tile.pressurePlateWood.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "73:0": {
+      "model": "minecraft:redstone_ore",
+      "translation": "tile.oreRedstone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "76:0": {
+      "model": "minecraft:redstone_torch",
+      "translation": "tile.notGate.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "77:0": {
+      "model": "minecraft:stone_button",
+      "translation": "tile.button.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "78:0": {
+      "model": "minecraft:snow_layer",
+      "translation": "tile.snow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "79:0": {
+      "model": "minecraft:ice",
+      "translation": "tile.ice.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "80:0": {
+      "model": "minecraft:snow",
+      "translation": "tile.snow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "81:0": {
+      "model": "minecraft:cactus",
+      "translation": "tile.cactus.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "82:0": {
+      "model": "minecraft:clay",
+      "translation": "tile.clay.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "84:0": {
+      "model": "minecraft:jukebox",
+      "translation": "tile.jukebox.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "85:0": {
+      "model": "minecraft:oak_fence",
+      "translation": "tile.fence.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "86:0": {
+      "model": "minecraft:pumpkin",
+      "translation": "tile.pumpkin.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "87:0": {
+      "model": "minecraft:netherrack",
+      "translation": "tile.hellrock.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "88:0": {
+      "model": "minecraft:soul_sand",
+      "translation": "tile.hellsand.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "89:0": {
+      "model": "minecraft:glowstone",
+      "translation": "tile.lightgem.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "91:0": {
+      "model": "minecraft:lit_pumpkin",
+      "translation": "tile.litpumpkin.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:0": {
+      "model": "minecraft:white_stained_glass",
+      "translation": "tile.stainedGlass.white.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:1": {
+      "model": "minecraft:orange_stained_glass",
+      "translation": "tile.stainedGlass.orange.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:2": {
+      "model": "minecraft:magenta_stained_glass",
+      "translation": "tile.stainedGlass.magenta.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:3": {
+      "model": "minecraft:light_blue_stained_glass",
+      "translation": "tile.stainedGlass.lightBlue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:4": {
+      "model": "minecraft:yellow_stained_glass",
+      "translation": "tile.stainedGlass.yellow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:5": {
+      "model": "minecraft:lime_stained_glass",
+      "translation": "tile.stainedGlass.lime.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:6": {
+      "model": "minecraft:pink_stained_glass",
+      "translation": "tile.stainedGlass.pink.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:7": {
+      "model": "minecraft:gray_stained_glass",
+      "translation": "tile.stainedGlass.gray.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:8": {
+      "model": "minecraft:silver_stained_glass",
+      "translation": "tile.stainedGlass.silver.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:9": {
+      "model": "minecraft:cyan_stained_glass",
+      "translation": "tile.stainedGlass.cyan.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:10": {
+      "model": "minecraft:purple_stained_glass",
+      "translation": "tile.stainedGlass.purple.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:11": {
+      "model": "minecraft:blue_stained_glass",
+      "translation": "tile.stainedGlass.blue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:12": {
+      "model": "minecraft:brown_stained_glass",
+      "translation": "tile.stainedGlass.brown.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:13": {
+      "model": "minecraft:green_stained_glass",
+      "translation": "tile.stainedGlass.green.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:14": {
+      "model": "minecraft:red_stained_glass",
+      "translation": "tile.stainedGlass.red.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "95:15": {
+      "model": "minecraft:black_stained_glass",
+      "translation": "tile.stainedGlass.black.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "96:0": {
+      "model": "minecraft:trapdoor",
+      "translation": "tile.trapdoor.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "97:0": {
+      "model": "minecraft:stone_monster_egg",
+      "translation": "tile.monsterStoneEgg.stone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "97:1": {
+      "model": "minecraft:cobblestone_monster_egg",
+      "translation": "tile.monsterStoneEgg.cobble.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "97:2": {
+      "model": "minecraft:stone_brick_monster_egg",
+      "translation": "tile.monsterStoneEgg.brick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "97:3": {
+      "model": "minecraft:mossy_brick_monster_egg",
+      "translation": "tile.monsterStoneEgg.mossybrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "97:4": {
+      "model": "minecraft:cracked_brick_monster_egg",
+      "translation": "tile.monsterStoneEgg.crackedbrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "97:5": {
+      "model": "minecraft:chiseled_brick_monster_egg",
+      "translation": "tile.monsterStoneEgg.chiseledbrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "98:0": {
+      "model": "minecraft:stonebrick",
+      "translation": "tile.stonebricksmooth.default.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "98:1": {
+      "model": "minecraft:mossy_stonebrick",
+      "translation": "tile.stonebricksmooth.mossy.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "98:2": {
+      "model": "minecraft:cracked_stonebrick",
+      "translation": "tile.stonebricksmooth.cracked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "98:3": {
+      "model": "minecraft:chiseled_stonebrick",
+      "translation": "tile.stonebricksmooth.chiseled.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "99:0": {
+      "model": "minecraft:brown_mushroom_block",
+      "translation": "tile.mushroom.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "100:0": {
+      "model": "minecraft:red_mushroom_block",
+      "translation": "tile.mushroom.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "101:0": {
+      "model": "minecraft:iron_bars",
+      "translation": "tile.fenceIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "102:0": {
+      "model": "minecraft:glass_pane",
+      "translation": "tile.thinGlass.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "103:0": {
+      "model": "minecraft:melon_block",
+      "translation": "tile.melon.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "106:0": {
+      "model": "minecraft:vine",
+      "translation": "tile.vine.name",
+      "colors": [
+        4764952,
+        4764952,
+        4764952
+      ]
+    },
+    "107:0": {
+      "model": "minecraft:oak_fence_gate",
+      "translation": "tile.fenceGate.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "108:0": {
+      "model": "minecraft:brick_stairs",
+      "translation": "tile.stairsBrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "109:0": {
+      "model": "minecraft:stone_brick_stairs",
+      "translation": "tile.stairsStoneBrickSmooth.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "110:0": {
+      "model": "minecraft:mycelium",
+      "translation": "tile.mycel.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "111:0": {
+      "model": "minecraft:waterlily",
+      "translation": "tile.waterlily.name",
+      "colors": [
+        7455580,
+        7455580,
+        7455580
+      ]
+    },
+    "112:0": {
+      "model": "minecraft:nether_brick",
+      "translation": "tile.netherBrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "113:0": {
+      "model": "minecraft:nether_brick_fence",
+      "translation": "tile.netherFence.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "114:0": {
+      "model": "minecraft:nether_brick_stairs",
+      "translation": "tile.stairsNetherBrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "116:0": {
+      "model": "minecraft:enchanting_table",
+      "translation": "tile.enchantmentTable.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "120:0": {
+      "model": "minecraft:end_portal_frame",
+      "translation": "tile.endPortalFrame.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "121:0": {
+      "model": "minecraft:end_stone",
+      "translation": "tile.whiteStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "122:0": {
+      "model": "minecraft:dragon_egg",
+      "translation": "tile.dragonEgg.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "123:0": {
+      "model": "minecraft:redstone_lamp",
+      "translation": "tile.redstoneLight.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "126:0": {
+      "model": "minecraft:oak_slab",
+      "translation": "tile.woodSlab.oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "126:1": {
+      "model": "minecraft:spruce_slab",
+      "translation": "tile.woodSlab.spruce.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "126:2": {
+      "model": "minecraft:birch_slab",
+      "translation": "tile.woodSlab.birch.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "126:3": {
+      "model": "minecraft:jungle_slab",
+      "translation": "tile.woodSlab.jungle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "126:4": {
+      "model": "minecraft:acacia_slab",
+      "translation": "tile.woodSlab.acacia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "126:5": {
+      "model": "minecraft:dark_oak_slab",
+      "translation": "tile.woodSlab.big_oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "128:0": {
+      "model": "minecraft:sandstone_stairs",
+      "translation": "tile.stairsSandStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "129:0": {
+      "model": "minecraft:emerald_ore",
+      "translation": "tile.oreEmerald.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "130:0": {
+      "model": "minecraft:ender_chest",
+      "translation": "tile.enderChest.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "131:0": {
+      "model": "minecraft:tripwire_hook",
+      "translation": "tile.tripWireSource.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "133:0": {
+      "model": "minecraft:emerald_block",
+      "translation": "tile.blockEmerald.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "134:0": {
+      "model": "minecraft:spruce_stairs",
+      "translation": "tile.stairsWoodSpruce.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "135:0": {
+      "model": "minecraft:birch_stairs",
+      "translation": "tile.stairsWoodBirch.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "136:0": {
+      "model": "minecraft:jungle_stairs",
+      "translation": "tile.stairsWoodJungle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "137:0": {
+      "model": "minecraft:command_block",
+      "translation": "tile.commandBlock.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "138:0": {
+      "model": "minecraft:beacon",
+      "translation": "tile.beacon.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "139:0": {
+      "model": "minecraft:cobblestone_wall",
+      "translation": "tile.cobbleWall.normal.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "139:1": {
+      "model": "minecraft:mossy_cobblestone_wall",
+      "translation": "tile.cobbleWall.mossy.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "143:0": {
+      "model": "minecraft:wooden_button",
+      "translation": "tile.button.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "145:0": {
+      "model": "minecraft:anvil_intact",
+      "translation": "tile.anvil.intact.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "145:1": {
+      "model": "minecraft:anvil_slightly_damaged",
+      "translation": "tile.anvil.slightlyDamaged.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "145:2": {
+      "model": "minecraft:anvil_very_damaged",
+      "translation": "tile.anvil.veryDamaged.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "146:0": {
+      "model": "minecraft:trapped_chest",
+      "translation": "tile.chestTrap.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "147:0": {
+      "model": "minecraft:light_weighted_pressure_plate",
+      "translation": "tile.weightedPlate_light.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "148:0": {
+      "model": "minecraft:heavy_weighted_pressure_plate",
+      "translation": "tile.weightedPlate_heavy.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "151:0": {
+      "model": "minecraft:daylight_detector",
+      "translation": "tile.daylightDetector.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "152:0": {
+      "model": "minecraft:redstone_block",
+      "translation": "tile.blockRedstone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "153:0": {
+      "model": "minecraft:quartz_ore",
+      "translation": "tile.netherquartz.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "154:0": {
+      "model": "minecraft:hopper",
+      "translation": "tile.hopper.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "155:0": {
+      "model": "minecraft:quartz_block",
+      "translation": "tile.quartzBlock.default.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "155:1": {
+      "model": "minecraft:chiseled_quartz_block",
+      "translation": "tile.quartzBlock.chiseled.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "155:2": {
+      "model": "minecraft:quartz_column",
+      "translation": "tile.quartzBlock.lines.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "156:0": {
+      "model": "minecraft:quartz_stairs",
+      "translation": "tile.stairsQuartz.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "157:0": {
+      "model": "minecraft:activator_rail",
+      "translation": "tile.activatorRail.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "158:0": {
+      "model": "minecraft:dropper",
+      "translation": "tile.dropper.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:0": {
+      "model": "minecraft:white_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.white.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:1": {
+      "model": "minecraft:orange_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.orange.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:2": {
+      "model": "minecraft:magenta_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.magenta.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:3": {
+      "model": "minecraft:light_blue_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.lightBlue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:4": {
+      "model": "minecraft:yellow_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.yellow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:5": {
+      "model": "minecraft:lime_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.lime.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:6": {
+      "model": "minecraft:pink_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.pink.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:7": {
+      "model": "minecraft:gray_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.gray.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:8": {
+      "model": "minecraft:silver_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.silver.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:9": {
+      "model": "minecraft:cyan_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.cyan.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:10": {
+      "model": "minecraft:purple_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.purple.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:11": {
+      "model": "minecraft:blue_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.blue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:12": {
+      "model": "minecraft:brown_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.brown.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:13": {
+      "model": "minecraft:green_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.green.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:14": {
+      "model": "minecraft:red_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.red.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "159:15": {
+      "model": "minecraft:black_stained_hardened_clay",
+      "translation": "tile.clayHardenedStained.black.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:0": {
+      "model": "minecraft:white_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.white.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:1": {
+      "model": "minecraft:orange_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.orange.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:2": {
+      "model": "minecraft:magenta_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.magenta.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:3": {
+      "model": "minecraft:light_blue_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.lightBlue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:4": {
+      "model": "minecraft:yellow_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.yellow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:5": {
+      "model": "minecraft:lime_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.lime.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:6": {
+      "model": "minecraft:pink_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.pink.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:7": {
+      "model": "minecraft:gray_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.gray.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:8": {
+      "model": "minecraft:silver_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.silver.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:9": {
+      "model": "minecraft:cyan_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.cyan.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:10": {
+      "model": "minecraft:purple_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.purple.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:11": {
+      "model": "minecraft:blue_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.blue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:12": {
+      "model": "minecraft:brown_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.brown.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:13": {
+      "model": "minecraft:green_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.green.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:14": {
+      "model": "minecraft:red_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.red.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "160:15": {
+      "model": "minecraft:black_stained_glass_pane",
+      "translation": "tile.thinStainedGlass.black.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "161:0": {
+      "model": "minecraft:acacia_leaves",
+      "translation": "tile.leaves.acacia.name",
+      "colors": [
+        4764952,
+        4764952,
+        4764952
+      ]
+    },
+    "161:1": {
+      "model": "minecraft:dark_oak_leaves",
+      "translation": "tile.leaves.big_oak.name",
+      "colors": [
+        4764952,
+        4764952,
+        4764952
+      ]
+    },
+    "162:0": {
+      "model": "minecraft:acacia_log",
+      "translation": "tile.log.acacia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "162:1": {
+      "model": "minecraft:dark_oak_log",
+      "translation": "tile.log.big_oak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "163:0": {
+      "model": "minecraft:acacia_stairs",
+      "translation": "tile.stairsWoodAcacia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "164:0": {
+      "model": "minecraft:dark_oak_stairs",
+      "translation": "tile.stairsWoodDarkOak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "165:0": {
+      "model": "minecraft:slime",
+      "translation": "tile.slime.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "166:0": {
+      "model": "minecraft:barrier",
+      "translation": "tile.barrier.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "167:0": {
+      "model": "minecraft:iron_trapdoor",
+      "translation": "tile.ironTrapdoor.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "168:0": {
+      "model": "minecraft:prismarine",
+      "translation": "tile.prismarine.rough.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "168:1": {
+      "model": "minecraft:prismarine_bricks",
+      "translation": "tile.prismarine.bricks.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "168:2": {
+      "model": "minecraft:dark_prismarine",
+      "translation": "tile.prismarine.dark.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "169:0": {
+      "model": "minecraft:sea_lantern",
+      "translation": "tile.seaLantern.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "170:0": {
+      "model": "minecraft:hay_block",
+      "translation": "tile.hayBlock.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:0": {
+      "model": "minecraft:white_carpet",
+      "translation": "tile.woolCarpet.white.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:1": {
+      "model": "minecraft:orange_carpet",
+      "translation": "tile.woolCarpet.orange.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:2": {
+      "model": "minecraft:magenta_carpet",
+      "translation": "tile.woolCarpet.magenta.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:3": {
+      "model": "minecraft:light_blue_carpet",
+      "translation": "tile.woolCarpet.lightBlue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:4": {
+      "model": "minecraft:yellow_carpet",
+      "translation": "tile.woolCarpet.yellow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:5": {
+      "model": "minecraft:lime_carpet",
+      "translation": "tile.woolCarpet.lime.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:6": {
+      "model": "minecraft:pink_carpet",
+      "translation": "tile.woolCarpet.pink.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:7": {
+      "model": "minecraft:gray_carpet",
+      "translation": "tile.woolCarpet.gray.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:8": {
+      "model": "minecraft:silver_carpet",
+      "translation": "tile.woolCarpet.silver.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:9": {
+      "model": "minecraft:cyan_carpet",
+      "translation": "tile.woolCarpet.cyan.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:10": {
+      "model": "minecraft:purple_carpet",
+      "translation": "tile.woolCarpet.purple.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:11": {
+      "model": "minecraft:blue_carpet",
+      "translation": "tile.woolCarpet.blue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:12": {
+      "model": "minecraft:brown_carpet",
+      "translation": "tile.woolCarpet.brown.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:13": {
+      "model": "minecraft:green_carpet",
+      "translation": "tile.woolCarpet.green.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:14": {
+      "model": "minecraft:red_carpet",
+      "translation": "tile.woolCarpet.red.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "171:15": {
+      "model": "minecraft:black_carpet",
+      "translation": "tile.woolCarpet.black.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "172:0": {
+      "model": "minecraft:hardened_clay",
+      "translation": "tile.clayHardened.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "173:0": {
+      "model": "minecraft:coal_block",
+      "translation": "tile.blockCoal.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "174:0": {
+      "model": "minecraft:packed_ice",
+      "translation": "tile.icePacked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "175:0": {
+      "model": "minecraft:sunflower",
+      "translation": "tile.doublePlant.sunflower.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "175:1": {
+      "model": "minecraft:syringa",
+      "translation": "tile.doublePlant.syringa.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "175:2": {
+      "model": "minecraft:double_grass",
+      "translation": "tile.doublePlant.grass.name",
+      "colors": [
+        0,
+        0,
+        0
+      ]
+    },
+    "175:3": {
+      "model": "minecraft:double_fern",
+      "translation": "tile.doublePlant.fern.name",
+      "colors": [
+        0,
+        0,
+        0
+      ]
+    },
+    "175:4": {
+      "model": "minecraft:double_rose",
+      "translation": "tile.doublePlant.rose.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "175:5": {
+      "model": "minecraft:paeonia",
+      "translation": "tile.doublePlant.paeonia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "179:0": {
+      "model": "minecraft:red_sandstone",
+      "translation": "tile.redSandStone.default.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "179:1": {
+      "model": "minecraft:chiseled_red_sandstone",
+      "translation": "tile.redSandStone.chiseled.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "179:2": {
+      "model": "minecraft:smooth_red_sandstone",
+      "translation": "tile.redSandStone.smooth.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "180:0": {
+      "model": "minecraft:red_sandstone_stairs",
+      "translation": "tile.stairsRedSandStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "182:0": {
+      "model": "minecraft:red_sandstone_slab",
+      "translation": "tile.stoneSlab2.red_sandstone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "183:0": {
+      "model": "minecraft:spruce_fence_gate",
+      "translation": "tile.spruceFenceGate.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "184:0": {
+      "model": "minecraft:birch_fence_gate",
+      "translation": "tile.birchFenceGate.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "185:0": {
+      "model": "minecraft:jungle_fence_gate",
+      "translation": "tile.jungleFenceGate.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "186:0": {
+      "model": "minecraft:dark_oak_fence_gate",
+      "translation": "tile.darkOakFenceGate.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "187:0": {
+      "model": "minecraft:acacia_fence_gate",
+      "translation": "tile.acaciaFenceGate.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "188:0": {
+      "model": "minecraft:spruce_fence",
+      "translation": "tile.spruceFence.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "189:0": {
+      "model": "minecraft:birch_fence",
+      "translation": "tile.birchFence.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "190:0": {
+      "model": "minecraft:jungle_fence",
+      "translation": "tile.jungleFence.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "191:0": {
+      "model": "minecraft:dark_oak_fence",
+      "translation": "tile.darkOakFence.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "192:0": {
+      "model": "minecraft:acacia_fence",
+      "translation": "tile.acaciaFence.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "256:0": {
+      "model": "minecraft:iron_shovel",
+      "translation": "item.shovelIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "257:0": {
+      "model": "minecraft:iron_pickaxe",
+      "translation": "item.pickaxeIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "258:0": {
+      "model": "minecraft:iron_axe",
+      "translation": "item.hatchetIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "259:0": {
+      "model": "minecraft:flint_and_steel",
+      "translation": "item.flintAndSteel.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "260:0": {
+      "model": "minecraft:apple",
+      "translation": "item.apple.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "261:0": {
+      "model": "minecraft:bow",
+      "translation": "item.bow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "262:0": {
+      "model": "minecraft:arrow",
+      "translation": "item.arrow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "263:0": {
+      "model": "minecraft:coal",
+      "translation": "item.coal.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "263:1": {
+      "model": "minecraft:charcoal",
+      "translation": "item.charcoal.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "264:0": {
+      "model": "minecraft:diamond",
+      "translation": "item.diamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "265:0": {
+      "model": "minecraft:iron_ingot",
+      "translation": "item.ingotIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "266:0": {
+      "model": "minecraft:gold_ingot",
+      "translation": "item.ingotGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "267:0": {
+      "model": "minecraft:iron_sword",
+      "translation": "item.swordIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "268:0": {
+      "model": "minecraft:wooden_sword",
+      "translation": "item.swordWood.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "269:0": {
+      "model": "minecraft:wooden_shovel",
+      "translation": "item.shovelWood.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "270:0": {
+      "model": "minecraft:wooden_pickaxe",
+      "translation": "item.pickaxeWood.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "271:0": {
+      "model": "minecraft:wooden_axe",
+      "translation": "item.hatchetWood.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "272:0": {
+      "model": "minecraft:stone_sword",
+      "translation": "item.swordStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "273:0": {
+      "model": "minecraft:stone_shovel",
+      "translation": "item.shovelStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "274:0": {
+      "model": "minecraft:stone_pickaxe",
+      "translation": "item.pickaxeStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "275:0": {
+      "model": "minecraft:stone_axe",
+      "translation": "item.hatchetStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "276:0": {
+      "model": "minecraft:diamond_sword",
+      "translation": "item.swordDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "277:0": {
+      "model": "minecraft:diamond_shovel",
+      "translation": "item.shovelDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "278:0": {
+      "model": "minecraft:diamond_pickaxe",
+      "translation": "item.pickaxeDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "279:0": {
+      "model": "minecraft:diamond_axe",
+      "translation": "item.hatchetDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "280:0": {
+      "model": "minecraft:stick",
+      "translation": "item.stick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "281:0": {
+      "model": "minecraft:bowl",
+      "translation": "item.bowl.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "282:0": {
+      "model": "minecraft:mushroom_stew",
+      "translation": "item.mushroomStew.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "283:0": {
+      "model": "minecraft:golden_sword",
+      "translation": "item.swordGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "284:0": {
+      "model": "minecraft:golden_shovel",
+      "translation": "item.shovelGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "285:0": {
+      "model": "minecraft:golden_pickaxe",
+      "translation": "item.pickaxeGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "286:0": {
+      "model": "minecraft:golden_axe",
+      "translation": "item.hatchetGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "287:0": {
+      "model": "minecraft:string",
+      "translation": "item.string.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "288:0": {
+      "model": "minecraft:feather",
+      "translation": "item.feather.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "289:0": {
+      "model": "minecraft:gunpowder",
+      "translation": "item.sulphur.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "290:0": {
+      "model": "minecraft:wooden_hoe",
+      "translation": "item.hoeWood.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "291:0": {
+      "model": "minecraft:stone_hoe",
+      "translation": "item.hoeStone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "292:0": {
+      "model": "minecraft:iron_hoe",
+      "translation": "item.hoeIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "293:0": {
+      "model": "minecraft:diamond_hoe",
+      "translation": "item.hoeDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "294:0": {
+      "model": "minecraft:golden_hoe",
+      "translation": "item.hoeGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "295:0": {
+      "model": "minecraft:wheat_seeds",
+      "translation": "item.seeds.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "296:0": {
+      "model": "minecraft:wheat",
+      "translation": "item.wheat.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "297:0": {
+      "model": "minecraft:bread",
+      "translation": "item.bread.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "298:0": {
+      "model": "minecraft:leather_helmet",
+      "translation": "item.helmetCloth.name",
+      "colors": [
+        10511680,
+        16777215,
+        16777215
+      ]
+    },
+    "299:0": {
+      "model": "minecraft:leather_chestplate",
+      "translation": "item.chestplateCloth.name",
+      "colors": [
+        10511680,
+        16777215,
+        16777215
+      ]
+    },
+    "300:0": {
+      "model": "minecraft:leather_leggings",
+      "translation": "item.leggingsCloth.name",
+      "colors": [
+        10511680,
+        16777215,
+        16777215
+      ]
+    },
+    "301:0": {
+      "model": "minecraft:leather_boots",
+      "translation": "item.bootsCloth.name",
+      "colors": [
+        10511680,
+        16777215,
+        16777215
+      ]
+    },
+    "302:0": {
+      "model": "minecraft:chainmail_helmet",
+      "translation": "item.helmetChain.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "303:0": {
+      "model": "minecraft:chainmail_chestplate",
+      "translation": "item.chestplateChain.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "304:0": {
+      "model": "minecraft:chainmail_leggings",
+      "translation": "item.leggingsChain.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "305:0": {
+      "model": "minecraft:chainmail_boots",
+      "translation": "item.bootsChain.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "306:0": {
+      "model": "minecraft:iron_helmet",
+      "translation": "item.helmetIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "307:0": {
+      "model": "minecraft:iron_chestplate",
+      "translation": "item.chestplateIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "308:0": {
+      "model": "minecraft:iron_leggings",
+      "translation": "item.leggingsIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "309:0": {
+      "model": "minecraft:iron_boots",
+      "translation": "item.bootsIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "310:0": {
+      "model": "minecraft:diamond_helmet",
+      "translation": "item.helmetDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "311:0": {
+      "model": "minecraft:diamond_chestplate",
+      "translation": "item.chestplateDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "312:0": {
+      "model": "minecraft:diamond_leggings",
+      "translation": "item.leggingsDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "313:0": {
+      "model": "minecraft:diamond_boots",
+      "translation": "item.bootsDiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "314:0": {
+      "model": "minecraft:golden_helmet",
+      "translation": "item.helmetGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "315:0": {
+      "model": "minecraft:golden_chestplate",
+      "translation": "item.chestplateGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "316:0": {
+      "model": "minecraft:golden_leggings",
+      "translation": "item.leggingsGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "317:0": {
+      "model": "minecraft:golden_boots",
+      "translation": "item.bootsGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "318:0": {
+      "model": "minecraft:flint",
+      "translation": "item.flint.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "319:0": {
+      "model": "minecraft:porkchop",
+      "translation": "item.porkchopRaw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "320:0": {
+      "model": "minecraft:cooked_porkchop",
+      "translation": "item.porkchopCooked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "321:0": {
+      "model": "minecraft:painting",
+      "translation": "item.painting.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "322:0": {
+      "model": "minecraft:golden_apple",
+      "translation": "item.appleGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "322:1": {
+      "model": "minecraft:golden_apple",
+      "translation": "item.appleGold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "323:0": {
+      "model": "minecraft:sign",
+      "translation": "item.sign.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "324:0": {
+      "model": "minecraft:oak_door",
+      "translation": "item.doorOak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "325:0": {
+      "model": "minecraft:bucket",
+      "translation": "item.bucket.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "326:0": {
+      "model": "minecraft:water_bucket",
+      "translation": "item.bucketWater.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "327:0": {
+      "model": "minecraft:lava_bucket",
+      "translation": "item.bucketLava.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "328:0": {
+      "model": "minecraft:minecart",
+      "translation": "item.minecart.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "329:0": {
+      "model": "minecraft:saddle",
+      "translation": "item.saddle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "330:0": {
+      "model": "minecraft:iron_door",
+      "translation": "item.doorIron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "331:0": {
+      "model": "minecraft:redstone",
+      "translation": "item.redstone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "332:0": {
+      "model": "minecraft:snowball",
+      "translation": "item.snowball.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "333:0": {
+      "model": "minecraft:boat",
+      "translation": "item.boat.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "334:0": {
+      "model": "minecraft:leather",
+      "translation": "item.leather.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "335:0": {
+      "model": "minecraft:milk_bucket",
+      "translation": "item.milk.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "336:0": {
+      "model": "minecraft:brick",
+      "translation": "item.brick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "337:0": {
+      "model": "minecraft:clay_ball",
+      "translation": "item.clay.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "338:0": {
+      "model": "minecraft:reeds",
+      "translation": "item.reeds.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "339:0": {
+      "model": "minecraft:paper",
+      "translation": "item.paper.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "340:0": {
+      "model": "minecraft:book",
+      "translation": "item.book.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "341:0": {
+      "model": "minecraft:slime_ball",
+      "translation": "item.slimeball.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "342:0": {
+      "model": "minecraft:chest_minecart",
+      "translation": "item.minecartChest.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "343:0": {
+      "model": "minecraft:furnace_minecart",
+      "translation": "item.minecartFurnace.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "344:0": {
+      "model": "minecraft:egg",
+      "translation": "item.egg.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "345:0": {
+      "model": "minecraft:compass",
+      "translation": "item.compass.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "346:0": {
+      "model": "minecraft:fishing_rod",
+      "translation": "item.fishingRod.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "347:0": {
+      "model": "minecraft:clock",
+      "translation": "item.clock.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "348:0": {
+      "model": "minecraft:glowstone_dust",
+      "translation": "item.yellowDust.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "349:0": {
+      "model": "minecraft:cod",
+      "translation": "item.fish.cod.raw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "349:1": {
+      "model": "minecraft:salmon",
+      "translation": "item.fish.salmon.raw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "349:2": {
+      "model": "minecraft:clownfish",
+      "translation": "item.fish.clownfish.raw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "349:3": {
+      "model": "minecraft:pufferfish",
+      "translation": "item.fish.pufferfish.raw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "350:0": {
+      "model": "minecraft:cooked_cod",
+      "translation": "item.fish.cod.cooked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "350:1": {
+      "model": "minecraft:cooked_salmon",
+      "translation": "item.fish.salmon.cooked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:0": {
+      "model": "minecraft:dye_black",
+      "translation": "item.dyePowder.black.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:1": {
+      "model": "minecraft:dye_red",
+      "translation": "item.dyePowder.red.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:2": {
+      "model": "minecraft:dye_green",
+      "translation": "item.dyePowder.green.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:3": {
+      "model": "minecraft:dye_brown",
+      "translation": "item.dyePowder.brown.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:4": {
+      "model": "minecraft:dye_blue",
+      "translation": "item.dyePowder.blue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:5": {
+      "model": "minecraft:dye_purple",
+      "translation": "item.dyePowder.purple.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:6": {
+      "model": "minecraft:dye_cyan",
+      "translation": "item.dyePowder.cyan.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:7": {
+      "model": "minecraft:dye_silver",
+      "translation": "item.dyePowder.silver.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:8": {
+      "model": "minecraft:dye_gray",
+      "translation": "item.dyePowder.gray.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:9": {
+      "model": "minecraft:dye_pink",
+      "translation": "item.dyePowder.pink.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:10": {
+      "model": "minecraft:dye_lime",
+      "translation": "item.dyePowder.lime.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:11": {
+      "model": "minecraft:dye_yellow",
+      "translation": "item.dyePowder.yellow.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:12": {
+      "model": "minecraft:dye_light_blue",
+      "translation": "item.dyePowder.lightBlue.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:13": {
+      "model": "minecraft:dye_magenta",
+      "translation": "item.dyePowder.magenta.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:14": {
+      "model": "minecraft:dye_orange",
+      "translation": "item.dyePowder.orange.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "351:15": {
+      "model": "minecraft:dye_white",
+      "translation": "item.dyePowder.white.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "352:0": {
+      "model": "minecraft:bone",
+      "translation": "item.bone.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "353:0": {
+      "model": "minecraft:sugar",
+      "translation": "item.sugar.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "354:0": {
+      "model": "minecraft:cake",
+      "translation": "item.cake.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "355:0": {
+      "model": "minecraft:bed",
+      "translation": "item.bed.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "356:0": {
+      "model": "minecraft:repeater",
+      "translation": "item.diode.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "357:0": {
+      "model": "minecraft:cookie",
+      "translation": "item.cookie.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "358:0": {
+      "model": "minecraft:filled_map",
+      "translation": "item.map.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "359:0": {
+      "model": "minecraft:shears",
+      "translation": "item.shears.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "360:0": {
+      "model": "minecraft:melon",
+      "translation": "item.melon.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "361:0": {
+      "model": "minecraft:pumpkin_seeds",
+      "translation": "item.seeds_pumpkin.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "362:0": {
+      "model": "minecraft:melon_seeds",
+      "translation": "item.seeds_melon.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "363:0": {
+      "model": "minecraft:beef",
+      "translation": "item.beefRaw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "364:0": {
+      "model": "minecraft:cooked_beef",
+      "translation": "item.beefCooked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "365:0": {
+      "model": "minecraft:chicken",
+      "translation": "item.chickenRaw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "366:0": {
+      "model": "minecraft:cooked_chicken",
+      "translation": "item.chickenCooked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "367:0": {
+      "model": "minecraft:rotten_flesh",
+      "translation": "item.rottenFlesh.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "368:0": {
+      "model": "minecraft:ender_pearl",
+      "translation": "item.enderPearl.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "369:0": {
+      "model": "minecraft:blaze_rod",
+      "translation": "item.blazeRod.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "370:0": {
+      "model": "minecraft:ghast_tear",
+      "translation": "item.ghastTear.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "371:0": {
+      "model": "minecraft:gold_nugget",
+      "translation": "item.goldNugget.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "372:0": {
+      "model": "minecraft:nether_wart",
+      "translation": "item.netherStalkSeeds.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "373:0": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        3694022,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8193": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        13458603,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8194": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        8171462,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8196": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        5149489,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8201": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        9643043,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8203": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        2293580,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8225": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        13458603,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8226": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        8171462,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8227": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        14981690,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8228": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        5149489,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8229": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        16262179,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8230": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        2039713,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8232": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        4738376,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8233": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        9643043,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8234": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        5926017,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8235": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        2293580,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8236": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        4393481,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8237": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        3035801,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8238": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        8356754,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8257": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        13458603,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8258": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        8171462,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8259": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        14981690,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8260": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        5149489,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8261": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        16262179,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8262": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        2039713,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8264": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        4738376,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8265": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        9643043,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8266": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        5926017,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8267": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        2293580,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8268": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        4393481,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8269": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        3035801,
+        16777215,
+        16777215
+      ]
+    },
+    "373:8270": {
+      "model": "minecraft:bottle_drinkable",
+      "translation": "item.potion.name",
+      "colors": [
+        8356754,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16385": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        13458603,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16386": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        8171462,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16388": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        5149489,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16393": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        9643043,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16395": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        2293580,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16417": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        13458603,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16418": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        8171462,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16419": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        14981690,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16420": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        5149489,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16421": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        16262179,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16422": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        2039713,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16424": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        4738376,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16425": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        9643043,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16426": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        5926017,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16427": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        2293580,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16428": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        4393481,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16429": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        3035801,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16430": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        8356754,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16449": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        13458603,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16450": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        8171462,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16451": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        14981690,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16452": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        5149489,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16453": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        16262179,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16454": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        2039713,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16456": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        4738376,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16457": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        9643043,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16458": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        5926017,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16459": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        2293580,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16460": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        4393481,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16461": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        3035801,
+        16777215,
+        16777215
+      ]
+    },
+    "373:16462": {
+      "model": "minecraft:bottle_splash",
+      "translation": "item.potion.name",
+      "colors": [
+        8356754,
+        16777215,
+        16777215
+      ]
+    },
+    "374:0": {
+      "model": "minecraft:glass_bottle",
+      "translation": "item.glassBottle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "375:0": {
+      "model": "minecraft:spider_eye",
+      "translation": "item.spiderEye.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "376:0": {
+      "model": "minecraft:fermented_spider_eye",
+      "translation": "item.fermentedSpiderEye.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "377:0": {
+      "model": "minecraft:blaze_powder",
+      "translation": "item.blazePowder.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "378:0": {
+      "model": "minecraft:magma_cream",
+      "translation": "item.magmaCream.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "379:0": {
+      "model": "minecraft:brewing_stand",
+      "translation": "item.brewingStand.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "380:0": {
+      "model": "minecraft:cauldron",
+      "translation": "item.cauldron.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "381:0": {
+      "model": "minecraft:ender_eye",
+      "translation": "item.eyeOfEnder.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "382:0": {
+      "model": "minecraft:speckled_melon",
+      "translation": "item.speckledMelon.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "383:0": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "383:50": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        894731,
+        0,
+        0
+      ]
+    },
+    "383:51": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        12698049,
+        4802889,
+        4802889
+      ]
+    },
+    "383:52": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        3419431,
+        11013646,
+        11013646
+      ]
+    },
+    "383:54": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        44975,
+        7969893,
+        7969893
+      ]
+    },
+    "383:55": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        5349438,
+        8306542,
+        8306542
+      ]
+    },
+    "383:56": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        16382457,
+        12369084,
+        12369084
+      ]
+    },
+    "383:57": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        15373203,
+        5009705,
+        5009705
+      ]
+    },
+    "383:58": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        1447446,
+        0,
+        0
+      ]
+    },
+    "383:59": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        803406,
+        11013646,
+        11013646
+      ]
+    },
+    "383:60": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        7237230,
+        3158064,
+        3158064
+      ]
+    },
+    "383:61": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        16167425,
+        16775294,
+        16775294
+      ]
+    },
+    "383:62": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        3407872,
+        16579584,
+        16579584
+      ]
+    },
+    "383:65": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        4996656,
+        986895,
+        986895
+      ]
+    },
+    "383:66": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        3407872,
+        5349438,
+        5349438
+      ]
+    },
+    "383:67": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        1447446,
+        7237230,
+        7237230
+      ]
+    },
+    "383:68": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        5931634,
+        15826224,
+        15826224
+      ]
+    },
+    "383:90": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        15771042,
+        14377823,
+        14377823
+      ]
+    },
+    "383:91": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        15198183,
+        16758197,
+        16758197
+      ]
+    },
+    "383:92": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        4470310,
+        10592673,
+        10592673
+      ]
+    },
+    "383:93": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        10592673,
+        16711680,
+        16711680
+      ]
+    },
+    "383:94": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        2243405,
+        7375001,
+        7375001
+      ]
+    },
+    "383:95": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        14144467,
+        13545366,
+        13545366
+      ]
+    },
+    "383:96": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        10489616,
+        12040119,
+        12040119
+      ]
+    },
+    "383:98": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        15720061,
+        5653556,
+        5653556
+      ]
+    },
+    "383:100": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        12623485,
+        15656192,
+        15656192
+      ]
+    },
+    "383:101": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        10051392,
+        7555121,
+        7555121
+      ]
+    },
+    "383:120": {
+      "model": "minecraft:spawn_egg",
+      "translation": "item.monsterPlacer.name",
+      "colors": [
+        5651507,
+        12422002,
+        12422002
+      ]
+    },
+    "384:0": {
+      "model": "minecraft:experience_bottle",
+      "translation": "item.expBottle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "385:0": {
+      "model": "minecraft:fire_charge",
+      "translation": "item.fireball.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "386:0": {
+      "model": "minecraft:writable_book",
+      "translation": "item.writingBook.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "387:0": {
+      "model": "minecraft:written_book",
+      "translation": "item.writtenBook.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "388:0": {
+      "model": "minecraft:emerald",
+      "translation": "item.emerald.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "389:0": {
+      "model": "minecraft:item_frame",
+      "translation": "item.frame.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "390:0": {
+      "model": "minecraft:flower_pot",
+      "translation": "item.flowerPot.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "391:0": {
+      "model": "minecraft:carrot",
+      "translation": "item.carrots.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "392:0": {
+      "model": "minecraft:potato",
+      "translation": "item.potato.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "393:0": {
+      "model": "minecraft:baked_potato",
+      "translation": "item.potatoBaked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "394:0": {
+      "model": "minecraft:poisonous_potato",
+      "translation": "item.potatoPoisonous.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "395:0": {
+      "model": "minecraft:map",
+      "translation": "item.emptyMap.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "396:0": {
+      "model": "minecraft:golden_carrot",
+      "translation": "item.carrotGolden.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "397:0": {
+      "model": "minecraft:skull_skeleton",
+      "translation": "item.skull.skeleton.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "397:1": {
+      "model": "minecraft:skull_wither",
+      "translation": "item.skull.wither.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "397:2": {
+      "model": "minecraft:skull_zombie",
+      "translation": "item.skull.zombie.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "397:3": {
+      "model": "minecraft:skull_char",
+      "translation": "item.skull.char.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "397:4": {
+      "model": "minecraft:skull_creeper",
+      "translation": "item.skull.creeper.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "398:0": {
+      "model": "minecraft:carrot_on_a_stick",
+      "translation": "item.carrotOnAStick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "399:0": {
+      "model": "minecraft:nether_star",
+      "translation": "item.netherStar.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "400:0": {
+      "model": "minecraft:pumpkin_pie",
+      "translation": "item.pumpkinPie.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "401:0": {
+      "model": "minecraft:fireworks",
+      "translation": "item.fireworks.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "402:0": {
+      "model": "minecraft:firework_charge",
+      "translation": "item.fireworksCharge.name",
+      "colors": [
+        16777215,
+        9079434,
+        16777215
+      ]
+    },
+    "403:0": {
+      "model": "minecraft:enchanted_book",
+      "translation": "item.enchantedBook.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "404:0": {
+      "model": "minecraft:comparator",
+      "translation": "item.comparator.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "405:0": {
+      "model": "minecraft:netherbrick",
+      "translation": "item.netherbrick.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "406:0": {
+      "model": "minecraft:quartz",
+      "translation": "item.netherquartz.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "407:0": {
+      "model": "minecraft:tnt_minecart",
+      "translation": "item.minecartTnt.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "408:0": {
+      "model": "minecraft:hopper_minecart",
+      "translation": "item.minecartHopper.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "409:0": {
+      "model": "minecraft:prismarine_shard",
+      "translation": "item.prismarineShard.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "410:0": {
+      "model": "minecraft:prismarine_crystals",
+      "translation": "item.prismarineCrystals.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "411:0": {
+      "model": "minecraft:rabbit",
+      "translation": "item.rabbitRaw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "412:0": {
+      "model": "minecraft:cooked_rabbit",
+      "translation": "item.rabbitCooked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "413:0": {
+      "model": "minecraft:rabbit_stew",
+      "translation": "item.rabbitStew.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "414:0": {
+      "model": "minecraft:rabbit_foot",
+      "translation": "item.rabbitFoot.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "415:0": {
+      "model": "minecraft:rabbit_hide",
+      "translation": "item.rabbitHide.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "416:0": {
+      "model": "minecraft:armor_stand",
+      "translation": "item.armorStand.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "417:0": {
+      "model": "minecraft:iron_horse_armor",
+      "translation": "item.horsearmormetal.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "418:0": {
+      "model": "minecraft:golden_horse_armor",
+      "translation": "item.horsearmorgold.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "419:0": {
+      "model": "minecraft:diamond_horse_armor",
+      "translation": "item.horsearmordiamond.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "420:0": {
+      "model": "minecraft:lead",
+      "translation": "item.leash.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "421:0": {
+      "model": "minecraft:name_tag",
+      "translation": "item.nameTag.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "422:0": {
+      "model": "minecraft:command_block_minecart",
+      "translation": "item.minecartCommandBlock.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "423:0": {
+      "model": "minecraft:mutton",
+      "translation": "item.muttonRaw.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "424:0": {
+      "model": "minecraft:cooked_mutton",
+      "translation": "item.muttonCooked.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "425:0": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        1644825,
+        1644825
+      ]
+    },
+    "425:1": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        10040115,
+        10040115
+      ]
+    },
+    "425:2": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        6717235,
+        6717235
+      ]
+    },
+    "425:3": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        6704179,
+        6704179
+      ]
+    },
+    "425:4": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        3361970,
+        3361970
+      ]
+    },
+    "425:5": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        8339378,
+        8339378
+      ]
+    },
+    "425:6": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        5013401,
+        5013401
+      ]
+    },
+    "425:7": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        10066329,
+        10066329
+      ]
+    },
+    "425:8": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        5000268,
+        5000268
+      ]
+    },
+    "425:9": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        15892389,
+        15892389
+      ]
+    },
+    "425:10": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        8375321,
+        8375321
+      ]
+    },
+    "425:11": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        15066419,
+        15066419
+      ]
+    },
+    "425:12": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        6724056,
+        6724056
+      ]
+    },
+    "425:13": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        11685080,
+        11685080
+      ]
+    },
+    "425:14": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        14188339,
+        14188339
+      ]
+    },
+    "425:15": {
+      "model": "minecraft:banner",
+      "translation": "tile.banner.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "427:0": {
+      "model": "minecraft:spruce_door",
+      "translation": "item.doorSpruce.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "428:0": {
+      "model": "minecraft:birch_door",
+      "translation": "item.doorBirch.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "429:0": {
+      "model": "minecraft:jungle_door",
+      "translation": "item.doorJungle.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "430:0": {
+      "model": "minecraft:acacia_door",
+      "translation": "item.doorAcacia.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "431:0": {
+      "model": "minecraft:dark_oak_door",
+      "translation": "item.doorDarkOak.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2256:0": {
+      "model": "minecraft:record_13",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2257:0": {
+      "model": "minecraft:record_cat",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2258:0": {
+      "model": "minecraft:record_blocks",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2259:0": {
+      "model": "minecraft:record_chirp",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2260:0": {
+      "model": "minecraft:record_far",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2261:0": {
+      "model": "minecraft:record_mall",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2262:0": {
+      "model": "minecraft:record_mellohi",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2263:0": {
+      "model": "minecraft:record_stal",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2264:0": {
+      "model": "minecraft:record_strad",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2265:0": {
+      "model": "minecraft:record_ward",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2266:0": {
+      "model": "minecraft:record_11",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    },
+    "2267:0": {
+      "model": "minecraft:record_wait",
+      "translation": "item.record.name",
+      "colors": [
+        16777215,
+        16777215,
+        16777215
+      ]
+    }
+  }
+}

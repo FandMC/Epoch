@@ -1,0 +1,2979 @@
+{
+  "source": {
+    "version": "1.8.9",
+    "clientJarSha1": "3870888a6c3d349d3771a3e9d16c9bf5e076b908"
+  },
+  "items": {
+    "1": {
+      "name": "minecraft:stone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "2": {
+      "name": "minecraft:grass",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "3": {
+      "name": "minecraft:dirt",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2
+      ]
+    },
+    "4": {
+      "name": "minecraft:cobblestone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "5": {
+      "name": "minecraft:planks",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "6": {
+      "name": "minecraft:sapling",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "7": {
+      "name": "minecraft:bedrock",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "12": {
+      "name": "minecraft:sand",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "13": {
+      "name": "minecraft:gravel",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "14": {
+      "name": "minecraft:gold_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "15": {
+      "name": "minecraft:iron_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "16": {
+      "name": "minecraft:coal_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "17": {
+      "name": "minecraft:log",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "18": {
+      "name": "minecraft:leaves",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "19": {
+      "name": "minecraft:sponge",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "20": {
+      "name": "minecraft:glass",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "21": {
+      "name": "minecraft:lapis_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "22": {
+      "name": "minecraft:lapis_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "23": {
+      "name": "minecraft:dispenser",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "24": {
+      "name": "minecraft:sandstone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2
+      ]
+    },
+    "25": {
+      "name": "minecraft:noteblock",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "27": {
+      "name": "minecraft:golden_rail",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "28": {
+      "name": "minecraft:detector_rail",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "29": {
+      "name": "minecraft:sticky_piston",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "30": {
+      "name": "minecraft:web",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "31": {
+      "name": "minecraft:tallgrass",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        1,
+        2
+      ]
+    },
+    "32": {
+      "name": "minecraft:deadbush",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "33": {
+      "name": "minecraft:piston",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "35": {
+      "name": "minecraft:wool",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "37": {
+      "name": "minecraft:yellow_flower",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "38": {
+      "name": "minecraft:red_flower",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "39": {
+      "name": "minecraft:brown_mushroom",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "40": {
+      "name": "minecraft:red_mushroom",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "41": {
+      "name": "minecraft:gold_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "42": {
+      "name": "minecraft:iron_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "44": {
+      "name": "minecraft:stone_slab",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "45": {
+      "name": "minecraft:brick_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "46": {
+      "name": "minecraft:tnt",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "47": {
+      "name": "minecraft:bookshelf",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "48": {
+      "name": "minecraft:mossy_cobblestone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "49": {
+      "name": "minecraft:obsidian",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "50": {
+      "name": "minecraft:torch",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "52": {
+      "name": "minecraft:mob_spawner",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "53": {
+      "name": "minecraft:oak_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "54": {
+      "name": "minecraft:chest",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "56": {
+      "name": "minecraft:diamond_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "57": {
+      "name": "minecraft:diamond_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "58": {
+      "name": "minecraft:crafting_table",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "60": {
+      "name": "minecraft:farmland",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "61": {
+      "name": "minecraft:furnace",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "62": {
+      "name": "minecraft:lit_furnace",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "65": {
+      "name": "minecraft:ladder",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "66": {
+      "name": "minecraft:rail",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "67": {
+      "name": "minecraft:stone_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "69": {
+      "name": "minecraft:lever",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "70": {
+      "name": "minecraft:stone_pressure_plate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "72": {
+      "name": "minecraft:wooden_pressure_plate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "73": {
+      "name": "minecraft:redstone_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "76": {
+      "name": "minecraft:redstone_torch",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "77": {
+      "name": "minecraft:stone_button",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "78": {
+      "name": "minecraft:snow_layer",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "79": {
+      "name": "minecraft:ice",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "80": {
+      "name": "minecraft:snow",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "81": {
+      "name": "minecraft:cactus",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "82": {
+      "name": "minecraft:clay",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "84": {
+      "name": "minecraft:jukebox",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "85": {
+      "name": "minecraft:fence",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "86": {
+      "name": "minecraft:pumpkin",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "87": {
+      "name": "minecraft:netherrack",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "88": {
+      "name": "minecraft:soul_sand",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "89": {
+      "name": "minecraft:glowstone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "91": {
+      "name": "minecraft:lit_pumpkin",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "95": {
+      "name": "minecraft:stained_glass",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "96": {
+      "name": "minecraft:trapdoor",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "97": {
+      "name": "minecraft:monster_egg",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "98": {
+      "name": "minecraft:stonebrick",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "99": {
+      "name": "minecraft:brown_mushroom_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "100": {
+      "name": "minecraft:red_mushroom_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "101": {
+      "name": "minecraft:iron_bars",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "102": {
+      "name": "minecraft:glass_pane",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "103": {
+      "name": "minecraft:melon_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "106": {
+      "name": "minecraft:vine",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "107": {
+      "name": "minecraft:fence_gate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "108": {
+      "name": "minecraft:brick_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "109": {
+      "name": "minecraft:stone_brick_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "110": {
+      "name": "minecraft:mycelium",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "111": {
+      "name": "minecraft:waterlily",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "112": {
+      "name": "minecraft:nether_brick",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "113": {
+      "name": "minecraft:nether_brick_fence",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "114": {
+      "name": "minecraft:nether_brick_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "116": {
+      "name": "minecraft:enchanting_table",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "120": {
+      "name": "minecraft:end_portal_frame",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "121": {
+      "name": "minecraft:end_stone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "122": {
+      "name": "minecraft:dragon_egg",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "123": {
+      "name": "minecraft:redstone_lamp",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "126": {
+      "name": "minecraft:wooden_slab",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "128": {
+      "name": "minecraft:sandstone_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "129": {
+      "name": "minecraft:emerald_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "130": {
+      "name": "minecraft:ender_chest",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "131": {
+      "name": "minecraft:tripwire_hook",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "133": {
+      "name": "minecraft:emerald_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "134": {
+      "name": "minecraft:spruce_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "135": {
+      "name": "minecraft:birch_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "136": {
+      "name": "minecraft:jungle_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "137": {
+      "name": "minecraft:command_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "138": {
+      "name": "minecraft:beacon",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "139": {
+      "name": "minecraft:cobblestone_wall",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "143": {
+      "name": "minecraft:wooden_button",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "145": {
+      "name": "minecraft:anvil",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2
+      ]
+    },
+    "146": {
+      "name": "minecraft:trapped_chest",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "147": {
+      "name": "minecraft:light_weighted_pressure_plate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "148": {
+      "name": "minecraft:heavy_weighted_pressure_plate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "151": {
+      "name": "minecraft:daylight_detector",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "152": {
+      "name": "minecraft:redstone_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "153": {
+      "name": "minecraft:quartz_ore",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "154": {
+      "name": "minecraft:hopper",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "155": {
+      "name": "minecraft:quartz_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2
+      ]
+    },
+    "156": {
+      "name": "minecraft:quartz_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "157": {
+      "name": "minecraft:activator_rail",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "158": {
+      "name": "minecraft:dropper",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "159": {
+      "name": "minecraft:stained_hardened_clay",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "160": {
+      "name": "minecraft:stained_glass_pane",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "161": {
+      "name": "minecraft:leaves2",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "162": {
+      "name": "minecraft:log2",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "163": {
+      "name": "minecraft:acacia_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "164": {
+      "name": "minecraft:dark_oak_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "165": {
+      "name": "minecraft:slime",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "166": {
+      "name": "minecraft:barrier",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "167": {
+      "name": "minecraft:iron_trapdoor",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "168": {
+      "name": "minecraft:prismarine",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2
+      ]
+    },
+    "169": {
+      "name": "minecraft:sea_lantern",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "170": {
+      "name": "minecraft:hay_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "171": {
+      "name": "minecraft:carpet",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "172": {
+      "name": "minecraft:hardened_clay",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "173": {
+      "name": "minecraft:coal_block",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "174": {
+      "name": "minecraft:packed_ice",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "175": {
+      "name": "minecraft:double_plant",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "179": {
+      "name": "minecraft:red_sandstone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2
+      ]
+    },
+    "180": {
+      "name": "minecraft:red_sandstone_stairs",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "182": {
+      "name": "minecraft:stone_slab2",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "183": {
+      "name": "minecraft:spruce_fence_gate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "184": {
+      "name": "minecraft:birch_fence_gate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "185": {
+      "name": "minecraft:jungle_fence_gate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "186": {
+      "name": "minecraft:dark_oak_fence_gate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "187": {
+      "name": "minecraft:acacia_fence_gate",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "188": {
+      "name": "minecraft:spruce_fence",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "189": {
+      "name": "minecraft:birch_fence",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "190": {
+      "name": "minecraft:jungle_fence",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "191": {
+      "name": "minecraft:dark_oak_fence",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "192": {
+      "name": "minecraft:acacia_fence",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "256": {
+      "name": "minecraft:iron_shovel",
+      "maximumStackSize": 1,
+      "maximumDamage": 250,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "257": {
+      "name": "minecraft:iron_pickaxe",
+      "maximumStackSize": 1,
+      "maximumDamage": 250,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "258": {
+      "name": "minecraft:iron_axe",
+      "maximumStackSize": 1,
+      "maximumDamage": 250,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "259": {
+      "name": "minecraft:flint_and_steel",
+      "maximumStackSize": 1,
+      "maximumDamage": 64,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "260": {
+      "name": "minecraft:apple",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "261": {
+      "name": "minecraft:bow",
+      "maximumStackSize": 1,
+      "maximumDamage": 384,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "262": {
+      "name": "minecraft:arrow",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "263": {
+      "name": "minecraft:coal",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "264": {
+      "name": "minecraft:diamond",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "265": {
+      "name": "minecraft:iron_ingot",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "266": {
+      "name": "minecraft:gold_ingot",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "267": {
+      "name": "minecraft:iron_sword",
+      "maximumStackSize": 1,
+      "maximumDamage": 250,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "268": {
+      "name": "minecraft:wooden_sword",
+      "maximumStackSize": 1,
+      "maximumDamage": 59,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "269": {
+      "name": "minecraft:wooden_shovel",
+      "maximumStackSize": 1,
+      "maximumDamage": 59,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "270": {
+      "name": "minecraft:wooden_pickaxe",
+      "maximumStackSize": 1,
+      "maximumDamage": 59,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "271": {
+      "name": "minecraft:wooden_axe",
+      "maximumStackSize": 1,
+      "maximumDamage": 59,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "272": {
+      "name": "minecraft:stone_sword",
+      "maximumStackSize": 1,
+      "maximumDamage": 131,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "273": {
+      "name": "minecraft:stone_shovel",
+      "maximumStackSize": 1,
+      "maximumDamage": 131,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "274": {
+      "name": "minecraft:stone_pickaxe",
+      "maximumStackSize": 1,
+      "maximumDamage": 131,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "275": {
+      "name": "minecraft:stone_axe",
+      "maximumStackSize": 1,
+      "maximumDamage": 131,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "276": {
+      "name": "minecraft:diamond_sword",
+      "maximumStackSize": 1,
+      "maximumDamage": 1561,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "277": {
+      "name": "minecraft:diamond_shovel",
+      "maximumStackSize": 1,
+      "maximumDamage": 1561,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "278": {
+      "name": "minecraft:diamond_pickaxe",
+      "maximumStackSize": 1,
+      "maximumDamage": 1561,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "279": {
+      "name": "minecraft:diamond_axe",
+      "maximumStackSize": 1,
+      "maximumDamage": 1561,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "280": {
+      "name": "minecraft:stick",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "281": {
+      "name": "minecraft:bowl",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "282": {
+      "name": "minecraft:mushroom_stew",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "283": {
+      "name": "minecraft:golden_sword",
+      "maximumStackSize": 1,
+      "maximumDamage": 32,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "284": {
+      "name": "minecraft:golden_shovel",
+      "maximumStackSize": 1,
+      "maximumDamage": 32,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "285": {
+      "name": "minecraft:golden_pickaxe",
+      "maximumStackSize": 1,
+      "maximumDamage": 32,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "286": {
+      "name": "minecraft:golden_axe",
+      "maximumStackSize": 1,
+      "maximumDamage": 32,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "287": {
+      "name": "minecraft:string",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "288": {
+      "name": "minecraft:feather",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "289": {
+      "name": "minecraft:gunpowder",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "290": {
+      "name": "minecraft:wooden_hoe",
+      "maximumStackSize": 1,
+      "maximumDamage": 59,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "291": {
+      "name": "minecraft:stone_hoe",
+      "maximumStackSize": 1,
+      "maximumDamage": 131,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "292": {
+      "name": "minecraft:iron_hoe",
+      "maximumStackSize": 1,
+      "maximumDamage": 250,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "293": {
+      "name": "minecraft:diamond_hoe",
+      "maximumStackSize": 1,
+      "maximumDamage": 1561,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "294": {
+      "name": "minecraft:golden_hoe",
+      "maximumStackSize": 1,
+      "maximumDamage": 32,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "295": {
+      "name": "minecraft:wheat_seeds",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "296": {
+      "name": "minecraft:wheat",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "297": {
+      "name": "minecraft:bread",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "298": {
+      "name": "minecraft:leather_helmet",
+      "maximumStackSize": 1,
+      "maximumDamage": 55,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "299": {
+      "name": "minecraft:leather_chestplate",
+      "maximumStackSize": 1,
+      "maximumDamage": 80,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "300": {
+      "name": "minecraft:leather_leggings",
+      "maximumStackSize": 1,
+      "maximumDamage": 75,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "301": {
+      "name": "minecraft:leather_boots",
+      "maximumStackSize": 1,
+      "maximumDamage": 65,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "302": {
+      "name": "minecraft:chainmail_helmet",
+      "maximumStackSize": 1,
+      "maximumDamage": 165,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "303": {
+      "name": "minecraft:chainmail_chestplate",
+      "maximumStackSize": 1,
+      "maximumDamage": 240,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "304": {
+      "name": "minecraft:chainmail_leggings",
+      "maximumStackSize": 1,
+      "maximumDamage": 225,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "305": {
+      "name": "minecraft:chainmail_boots",
+      "maximumStackSize": 1,
+      "maximumDamage": 195,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "306": {
+      "name": "minecraft:iron_helmet",
+      "maximumStackSize": 1,
+      "maximumDamage": 165,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "307": {
+      "name": "minecraft:iron_chestplate",
+      "maximumStackSize": 1,
+      "maximumDamage": 240,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "308": {
+      "name": "minecraft:iron_leggings",
+      "maximumStackSize": 1,
+      "maximumDamage": 225,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "309": {
+      "name": "minecraft:iron_boots",
+      "maximumStackSize": 1,
+      "maximumDamage": 195,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "310": {
+      "name": "minecraft:diamond_helmet",
+      "maximumStackSize": 1,
+      "maximumDamage": 363,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "311": {
+      "name": "minecraft:diamond_chestplate",
+      "maximumStackSize": 1,
+      "maximumDamage": 528,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "312": {
+      "name": "minecraft:diamond_leggings",
+      "maximumStackSize": 1,
+      "maximumDamage": 495,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "313": {
+      "name": "minecraft:diamond_boots",
+      "maximumStackSize": 1,
+      "maximumDamage": 429,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "314": {
+      "name": "minecraft:golden_helmet",
+      "maximumStackSize": 1,
+      "maximumDamage": 77,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "315": {
+      "name": "minecraft:golden_chestplate",
+      "maximumStackSize": 1,
+      "maximumDamage": 112,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "316": {
+      "name": "minecraft:golden_leggings",
+      "maximumStackSize": 1,
+      "maximumDamage": 105,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "317": {
+      "name": "minecraft:golden_boots",
+      "maximumStackSize": 1,
+      "maximumDamage": 91,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "318": {
+      "name": "minecraft:flint",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "319": {
+      "name": "minecraft:porkchop",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "320": {
+      "name": "minecraft:cooked_porkchop",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "321": {
+      "name": "minecraft:painting",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "322": {
+      "name": "minecraft:golden_apple",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "323": {
+      "name": "minecraft:sign",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "324": {
+      "name": "minecraft:wooden_door",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "325": {
+      "name": "minecraft:bucket",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "326": {
+      "name": "minecraft:water_bucket",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "327": {
+      "name": "minecraft:lava_bucket",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "328": {
+      "name": "minecraft:minecart",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "329": {
+      "name": "minecraft:saddle",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "330": {
+      "name": "minecraft:iron_door",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "331": {
+      "name": "minecraft:redstone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "332": {
+      "name": "minecraft:snowball",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "333": {
+      "name": "minecraft:boat",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "334": {
+      "name": "minecraft:leather",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "335": {
+      "name": "minecraft:milk_bucket",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "336": {
+      "name": "minecraft:brick",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "337": {
+      "name": "minecraft:clay_ball",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "338": {
+      "name": "minecraft:reeds",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "339": {
+      "name": "minecraft:paper",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "340": {
+      "name": "minecraft:book",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "341": {
+      "name": "minecraft:slime_ball",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "342": {
+      "name": "minecraft:chest_minecart",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "343": {
+      "name": "minecraft:furnace_minecart",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "344": {
+      "name": "minecraft:egg",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "345": {
+      "name": "minecraft:compass",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "346": {
+      "name": "minecraft:fishing_rod",
+      "maximumStackSize": 1,
+      "maximumDamage": 64,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "347": {
+      "name": "minecraft:clock",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "348": {
+      "name": "minecraft:glowstone_dust",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "349": {
+      "name": "minecraft:fish",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "350": {
+      "name": "minecraft:cooked_fish",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1
+      ]
+    },
+    "351": {
+      "name": "minecraft:dye",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "352": {
+      "name": "minecraft:bone",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "353": {
+      "name": "minecraft:sugar",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "354": {
+      "name": "minecraft:cake",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "355": {
+      "name": "minecraft:bed",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "356": {
+      "name": "minecraft:repeater",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "357": {
+      "name": "minecraft:cookie",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "358": {
+      "name": "minecraft:filled_map",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "359": {
+      "name": "minecraft:shears",
+      "maximumStackSize": 1,
+      "maximumDamage": 238,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "360": {
+      "name": "minecraft:melon",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "361": {
+      "name": "minecraft:pumpkin_seeds",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "362": {
+      "name": "minecraft:melon_seeds",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "363": {
+      "name": "minecraft:beef",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "364": {
+      "name": "minecraft:cooked_beef",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "365": {
+      "name": "minecraft:chicken",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "366": {
+      "name": "minecraft:cooked_chicken",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "367": {
+      "name": "minecraft:rotten_flesh",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "368": {
+      "name": "minecraft:ender_pearl",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "369": {
+      "name": "minecraft:blaze_rod",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "370": {
+      "name": "minecraft:ghast_tear",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "371": {
+      "name": "minecraft:gold_nugget",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "372": {
+      "name": "minecraft:nether_wart",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "373": {
+      "name": "minecraft:potion",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        8193,
+        8225,
+        8257,
+        16385,
+        16417,
+        16449,
+        8194,
+        8226,
+        8258,
+        16386,
+        16418,
+        16450,
+        8227,
+        8259,
+        16419,
+        16451,
+        8196,
+        8228,
+        8260,
+        16388,
+        16420,
+        16452,
+        8261,
+        8229,
+        16453,
+        16421,
+        8230,
+        8262,
+        16422,
+        16454,
+        8232,
+        8264,
+        16424,
+        16456,
+        8201,
+        8233,
+        8265,
+        16393,
+        16425,
+        16457,
+        8234,
+        8266,
+        16426,
+        16458,
+        8203,
+        8235,
+        8267,
+        16395,
+        16427,
+        16459,
+        8268,
+        8236,
+        16460,
+        16428,
+        8237,
+        8269,
+        16429,
+        16461,
+        8238,
+        8270,
+        16430,
+        16462
+      ]
+    },
+    "374": {
+      "name": "minecraft:glass_bottle",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "375": {
+      "name": "minecraft:spider_eye",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "376": {
+      "name": "minecraft:fermented_spider_eye",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "377": {
+      "name": "minecraft:blaze_powder",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "378": {
+      "name": "minecraft:magma_cream",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "379": {
+      "name": "minecraft:brewing_stand",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "380": {
+      "name": "minecraft:cauldron",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "381": {
+      "name": "minecraft:ender_eye",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "382": {
+      "name": "minecraft:speckled_melon",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "383": {
+      "name": "minecraft:spawn_egg",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        50,
+        51,
+        52,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        65,
+        66,
+        67,
+        68,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        98,
+        100,
+        101,
+        120
+      ]
+    },
+    "384": {
+      "name": "minecraft:experience_bottle",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "385": {
+      "name": "minecraft:fire_charge",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "386": {
+      "name": "minecraft:writable_book",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "387": {
+      "name": "minecraft:written_book",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "388": {
+      "name": "minecraft:emerald",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "389": {
+      "name": "minecraft:item_frame",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "390": {
+      "name": "minecraft:flower_pot",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "391": {
+      "name": "minecraft:carrot",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "392": {
+      "name": "minecraft:potato",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "393": {
+      "name": "minecraft:baked_potato",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "394": {
+      "name": "minecraft:poisonous_potato",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "395": {
+      "name": "minecraft:map",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "396": {
+      "name": "minecraft:golden_carrot",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "397": {
+      "name": "minecraft:skull",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "398": {
+      "name": "minecraft:carrot_on_a_stick",
+      "maximumStackSize": 1,
+      "maximumDamage": 25,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "399": {
+      "name": "minecraft:nether_star",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "400": {
+      "name": "minecraft:pumpkin_pie",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "401": {
+      "name": "minecraft:fireworks",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "402": {
+      "name": "minecraft:firework_charge",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "403": {
+      "name": "minecraft:enchanted_book",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "404": {
+      "name": "minecraft:comparator",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "405": {
+      "name": "minecraft:netherbrick",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "406": {
+      "name": "minecraft:quartz",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "407": {
+      "name": "minecraft:tnt_minecart",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "408": {
+      "name": "minecraft:hopper_minecart",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "409": {
+      "name": "minecraft:prismarine_shard",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "410": {
+      "name": "minecraft:prismarine_crystals",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "411": {
+      "name": "minecraft:rabbit",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "412": {
+      "name": "minecraft:cooked_rabbit",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "413": {
+      "name": "minecraft:rabbit_stew",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "414": {
+      "name": "minecraft:rabbit_foot",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "415": {
+      "name": "minecraft:rabbit_hide",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "416": {
+      "name": "minecraft:armor_stand",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "417": {
+      "name": "minecraft:iron_horse_armor",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "418": {
+      "name": "minecraft:golden_horse_armor",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "419": {
+      "name": "minecraft:diamond_horse_armor",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "420": {
+      "name": "minecraft:lead",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "421": {
+      "name": "minecraft:name_tag",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "422": {
+      "name": "minecraft:command_block_minecart",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "423": {
+      "name": "minecraft:mutton",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "424": {
+      "name": "minecraft:cooked_mutton",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "425": {
+      "name": "minecraft:banner",
+      "maximumStackSize": 16,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    "427": {
+      "name": "minecraft:spruce_door",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "428": {
+      "name": "minecraft:birch_door",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "429": {
+      "name": "minecraft:jungle_door",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "430": {
+      "name": "minecraft:acacia_door",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "431": {
+      "name": "minecraft:dark_oak_door",
+      "maximumStackSize": 64,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2256": {
+      "name": "minecraft:record_13",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2257": {
+      "name": "minecraft:record_cat",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2258": {
+      "name": "minecraft:record_blocks",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2259": {
+      "name": "minecraft:record_chirp",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2260": {
+      "name": "minecraft:record_far",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2261": {
+      "name": "minecraft:record_mall",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2262": {
+      "name": "minecraft:record_mellohi",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2263": {
+      "name": "minecraft:record_stal",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2264": {
+      "name": "minecraft:record_strad",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2265": {
+      "name": "minecraft:record_ward",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2266": {
+      "name": "minecraft:record_11",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    },
+    "2267": {
+      "name": "minecraft:record_wait",
+      "maximumStackSize": 1,
+      "maximumDamage": 0,
+      "creativeMetadata": [
+        0
+      ]
+    }
+  }
+}

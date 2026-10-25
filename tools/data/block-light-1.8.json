@@ -1,0 +1,1790 @@
+{
+  "source": {
+    "version": "1.8.9",
+    "clientJarSha1": "3870888a6c3d349d3771a3e9d16c9bf5e076b908"
+  },
+  "blocks": {
+    "air": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": true
+    },
+    "stone": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "grass": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "dirt": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "cobblestone": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "planks": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "sapling": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "bedrock": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "flowing_water": {
+      "opacity": 3,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "water": {
+      "opacity": 3,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "flowing_lava": {
+      "opacity": 0,
+      "emission": 15,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "lava": {
+      "opacity": 0,
+      "emission": 15,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "sand": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "gravel": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "gold_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "iron_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "coal_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "log": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "leaves": {
+      "opacity": 1,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "sponge": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "glass": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "lapis_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "lapis_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "dispenser": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "sandstone": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "noteblock": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "bed": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "golden_rail": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "detector_rail": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "sticky_piston": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "web": {
+      "opacity": 1,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "tallgrass": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "deadbush": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "piston": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "piston_head": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "wool": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "piston_extension": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "yellow_flower": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "red_flower": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "brown_mushroom": {
+      "opacity": 0,
+      "emission": 1,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "red_mushroom": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "gold_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "iron_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "double_stone_slab": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "stone_slab": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "brick_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "tnt": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "bookshelf": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "mossy_cobblestone": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "obsidian": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "torch": {
+      "opacity": 0,
+      "emission": 14,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "fire": {
+      "opacity": 0,
+      "emission": 15,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "mob_spawner": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": false,
+      "fullCube": true
+    },
+    "oak_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "chest": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "redstone_wire": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "diamond_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "diamond_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "crafting_table": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "wheat": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "farmland": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "furnace": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "lit_furnace": {
+      "opacity": 255,
+      "emission": 13,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "standing_sign": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "wooden_door": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "ladder": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "rail": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "stone_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "wall_sign": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "lever": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "stone_pressure_plate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "iron_door": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "wooden_pressure_plate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "redstone_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "lit_redstone_ore": {
+      "opacity": 255,
+      "emission": 9,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "unlit_redstone_torch": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "redstone_torch": {
+      "opacity": 0,
+      "emission": 7,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "stone_button": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "snow_layer": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "ice": {
+      "opacity": 3,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": false,
+      "fullCube": true
+    },
+    "snow": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "cactus": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "clay": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "reeds": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "jukebox": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "fence": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "pumpkin": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "netherrack": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "soul_sand": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "glowstone": {
+      "opacity": 255,
+      "emission": 15,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "portal": {
+      "opacity": 0,
+      "emission": 11,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "lit_pumpkin": {
+      "opacity": 255,
+      "emission": 15,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "cake": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "unpowered_repeater": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "powered_repeater": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "stained_glass": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "trapdoor": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "monster_egg": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "stonebrick": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "brown_mushroom_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "red_mushroom_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "iron_bars": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "glass_pane": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "melon_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "pumpkin_stem": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "melon_stem": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "vine": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "fence_gate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "brick_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "stone_brick_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "mycelium": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "waterlily": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "nether_brick": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "nether_brick_fence": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "nether_brick_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "nether_wart": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "enchanting_table": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "brewing_stand": {
+      "opacity": 0,
+      "emission": 1,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "cauldron": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "end_portal": {
+      "opacity": 0,
+      "emission": 15,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "end_portal_frame": {
+      "opacity": 0,
+      "emission": 1,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": false,
+      "fullCube": true
+    },
+    "end_stone": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "dragon_egg": {
+      "opacity": 0,
+      "emission": 1,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "redstone_lamp": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "lit_redstone_lamp": {
+      "opacity": 255,
+      "emission": 15,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "double_wooden_slab": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "wooden_slab": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "cocoa": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "sandstone_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "emerald_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "ender_chest": {
+      "opacity": 0,
+      "emission": 7,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "tripwire_hook": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "tripwire": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "emerald_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "spruce_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "birch_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "jungle_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "command_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "beacon": {
+      "opacity": 0,
+      "emission": 15,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "cobblestone_wall": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "flower_pot": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "carrots": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "potatoes": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "wooden_button": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "skull": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "anvil": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "trapped_chest": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "light_weighted_pressure_plate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "heavy_weighted_pressure_plate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "unpowered_comparator": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "powered_comparator": {
+      "opacity": 0,
+      "emission": 9,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "daylight_detector": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "redstone_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "quartz_ore": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "hopper": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "quartz_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "quartz_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "activator_rail": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "dropper": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "stained_hardened_clay": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "stained_glass_pane": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "leaves2": {
+      "opacity": 1,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "log2": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "acacia_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "dark_oak_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "slime": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": false,
+      "fullCube": true
+    },
+    "barrier": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": true
+    },
+    "iron_trapdoor": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "prismarine": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "sea_lantern": {
+      "opacity": 255,
+      "emission": 15,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "hay_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "carpet": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "hardened_clay": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "coal_block": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "packed_ice": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "double_plant": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": true,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "standing_banner": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "wall_banner": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "daylight_detector_inverted": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "red_sandstone": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": false,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "red_sandstone_stairs": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "double_stone_slab2": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 0.2,
+      "opaqueCube": true,
+      "fullCube": true
+    },
+    "stone_slab2": {
+      "opacity": 255,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "spruce_fence_gate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "birch_fence_gate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "jungle_fence_gate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "dark_oak_fence_gate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "acacia_fence_gate": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "spruce_fence": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "birch_fence": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "jungle_fence": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "dark_oak_fence": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "acacia_fence": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "spruce_door": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "birch_door": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "jungle_door": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "acacia_door": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    },
+    "dark_oak_door": {
+      "opacity": 0,
+      "emission": 0,
+      "neighborBrightness": true,
+      "translucent": false,
+      "ambientOcclusion": 1.0,
+      "opaqueCube": false,
+      "fullCube": false
+    }
+  }
+}

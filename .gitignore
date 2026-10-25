@@ -1,0 +1,17 @@
+.gradle/
+build/
+**/build/
+backups/
+run/
+assets/
+.idea/
+*.iml
+hs_err_pid*.log
+replay_pid*.log
+*.hprof
+*.dmp
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc

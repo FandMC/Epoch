@@ -1,0 +1,801 @@
+{
+  "blocks": {
+    "acacia_door": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "acacia_fence": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "acacia_fence_gate": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "acacia_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "activator_rail": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "air": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "anvil": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "barrier": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "beacon": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "bed": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "bedrock": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "birch_door": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "birch_fence": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "birch_fence_gate": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "birch_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "bookshelf": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "brewing_stand": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "brick_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "brick_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "brown_mushroom": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "brown_mushroom_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "cactus": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "cake": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "carpet": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "carrots": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "cauldron": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "chest": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "clay": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "coal_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "coal_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "cobblestone": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "cobblestone_wall": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "cocoa": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "command_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "crafting_table": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "dark_oak_door": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "dark_oak_fence": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "dark_oak_fence_gate": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "dark_oak_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "daylight_detector": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "daylight_detector_inverted": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "deadbush": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "detector_rail": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "diamond_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "diamond_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "dirt": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "dispenser": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "double_plant": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "double_stone_slab": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "double_stone_slab2": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "double_wooden_slab": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "dragon_egg": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "dropper": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "emerald_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "emerald_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "enchanting_table": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "end_portal": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "end_portal_frame": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "end_stone": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "ender_chest": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "farmland": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "fence": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "fence_gate": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "fire": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "flower_pot": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "flowing_lava": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "flowing_water": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "furnace": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "glass": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "glass_pane": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "glowstone": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "gold_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "gold_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "golden_rail": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "grass": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "gravel": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "hardened_clay": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "hay_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "heavy_weighted_pressure_plate": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "hopper": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "ice": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "iron_bars": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "iron_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "iron_door": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "iron_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "iron_trapdoor": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "jukebox": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "jungle_door": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "jungle_fence": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "jungle_fence_gate": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "jungle_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "ladder": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "lapis_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "lapis_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "lava": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "leaves": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "leaves2": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "lever": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "light_weighted_pressure_plate": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "lit_furnace": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "lit_pumpkin": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "lit_redstone_lamp": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "lit_redstone_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "log": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "log2": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "melon_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "melon_stem": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "mob_spawner": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "monster_egg": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "mossy_cobblestone": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "mycelium": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "nether_brick": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "nether_brick_fence": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "nether_brick_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "nether_wart": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "netherrack": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "noteblock": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "oak_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "obsidian": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "packed_ice": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "piston": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "piston_extension": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "piston_head": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "planks": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "portal": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "potatoes": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "powered_comparator": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "powered_repeater": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "prismarine": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "pumpkin": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "pumpkin_stem": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "quartz_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "quartz_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "quartz_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "rail": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "red_flower": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "red_mushroom": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "red_mushroom_block": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "red_sandstone": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "red_sandstone_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "redstone_block": {
+      "normalCube": true,
+      "providesPower": true
+    },
+    "redstone_lamp": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "redstone_ore": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "redstone_torch": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "redstone_wire": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "reeds": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "sand": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "sandstone": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "sandstone_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "sapling": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "sea_lantern": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "skull": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "slime": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "snow": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "snow_layer": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "soul_sand": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "sponge": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "spruce_door": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "spruce_fence": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "spruce_fence_gate": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "spruce_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stained_glass": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stained_glass_pane": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stained_hardened_clay": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "standing_banner": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "standing_sign": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "sticky_piston": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stone": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "stone_brick_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stone_button": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "stone_pressure_plate": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "stone_slab": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stone_slab2": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stone_stairs": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "stonebrick": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "tallgrass": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "tnt": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "torch": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "trapdoor": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "trapped_chest": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "tripwire": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "tripwire_hook": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "unlit_redstone_torch": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "unpowered_comparator": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "unpowered_repeater": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "vine": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "wall_banner": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "wall_sign": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "water": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "waterlily": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "web": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "wheat": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "wooden_button": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "wooden_door": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "wooden_pressure_plate": {
+      "normalCube": false,
+      "providesPower": true
+    },
+    "wooden_slab": {
+      "normalCube": false,
+      "providesPower": false
+    },
+    "wool": {
+      "normalCube": true,
+      "providesPower": false
+    },
+    "yellow_flower": {
+      "normalCube": false,
+      "providesPower": false
+    }
+  },
+  "source": {
+    "version": "1.8.9",
+    "clientJarSha1": "3870888a6c3d349d3771a3e9d16c9bf5e076b908",
+    "methods": "afh.u() normalCube; afh.i() canProvidePower"
+  }
+}

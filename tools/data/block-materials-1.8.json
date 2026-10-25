@@ -1,0 +1,999 @@
+{
+  "source": {
+    "clientJarSha1": "3870888a6c3d349d3771a3e9d16c9bf5e076b908",
+    "version": "1.8.9",
+    "methods": "afh.t().c() blocksMovement; afh.t().a() solid excluding arm.w ice"
+  },
+  "blocks": {
+    "acacia_door": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "acacia_fence": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "acacia_fence_gate": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "acacia_stairs": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "activator_rail": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "air": {
+      "materialField": "a",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "anvil": {
+      "materialField": "g",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "barrier": {
+      "materialField": "I",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "beacon": {
+      "materialField": "s",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "bed": {
+      "materialField": "n",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "bedrock": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "birch_door": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "birch_fence": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "birch_fence_gate": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "birch_stairs": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "bookshelf": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "brewing_stand": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "brick_block": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "brick_stairs": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "brown_mushroom": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "brown_mushroom_block": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "cactus": {
+      "materialField": "A",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "cake": {
+      "materialField": "F",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "carpet": {
+      "materialField": "r",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "carrots": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "cauldron": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "chest": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "clay": {
+      "materialField": "B",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "coal_block": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "coal_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "cobblestone": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "cobblestone_wall": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "cocoa": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "command_block": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "crafting_table": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dark_oak_door": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dark_oak_fence": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dark_oak_fence_gate": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dark_oak_stairs": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "daylight_detector": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "daylight_detector_inverted": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "deadbush": {
+      "materialField": "l",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "detector_rail": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "diamond_block": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "diamond_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dirt": {
+      "materialField": "c",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dispenser": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "double_plant": {
+      "materialField": "l",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "double_stone_slab": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "double_stone_slab2": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "double_wooden_slab": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dragon_egg": {
+      "materialField": "D",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "dropper": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "emerald_block": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "emerald_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "enchanting_table": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "end_portal": {
+      "materialField": "E",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "end_portal_frame": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "end_stone": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "ender_chest": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "farmland": {
+      "materialField": "c",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "fence": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "fence_gate": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "fire": {
+      "materialField": "o",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "flower_pot": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "flowing_lava": {
+      "materialField": "i",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "flowing_water": {
+      "materialField": "h",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "furnace": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "glass": {
+      "materialField": "s",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "glass_pane": {
+      "materialField": "s",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "glowstone": {
+      "materialField": "s",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "gold_block": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "gold_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "golden_rail": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "grass": {
+      "materialField": "b",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "gravel": {
+      "materialField": "p",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "hardened_clay": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "hay_block": {
+      "materialField": "b",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "heavy_weighted_pressure_plate": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "hopper": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "ice": {
+      "materialField": "w",
+      "blocksMovement": true,
+      "solidForFluid": false
+    },
+    "iron_bars": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "iron_block": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "iron_door": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "iron_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "iron_trapdoor": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "jukebox": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "jungle_door": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "jungle_fence": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "jungle_fence_gate": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "jungle_stairs": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "ladder": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "lapis_block": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "lapis_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "lava": {
+      "materialField": "i",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "leaves": {
+      "materialField": "j",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "leaves2": {
+      "materialField": "j",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "lever": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "light_weighted_pressure_plate": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "lit_furnace": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "lit_pumpkin": {
+      "materialField": "C",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "lit_redstone_lamp": {
+      "materialField": "t",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "lit_redstone_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "log": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "log2": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "melon_block": {
+      "materialField": "C",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "melon_stem": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "mob_spawner": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "monster_egg": {
+      "materialField": "B",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "mossy_cobblestone": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "mycelium": {
+      "materialField": "b",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "nether_brick": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "nether_brick_fence": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "nether_brick_stairs": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "nether_wart": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "netherrack": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "noteblock": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "oak_stairs": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "obsidian": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "packed_ice": {
+      "materialField": "x",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "piston": {
+      "materialField": "H",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "piston_extension": {
+      "materialField": "H",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "piston_head": {
+      "materialField": "H",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "planks": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "portal": {
+      "materialField": "E",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "potatoes": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "powered_comparator": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "powered_repeater": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "prismarine": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "pumpkin": {
+      "materialField": "C",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "pumpkin_stem": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "quartz_block": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "quartz_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "quartz_stairs": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "rail": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "red_flower": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "red_mushroom": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "red_mushroom_block": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "red_sandstone": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "red_sandstone_stairs": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "redstone_block": {
+      "materialField": "f",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "redstone_lamp": {
+      "materialField": "t",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "redstone_ore": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "redstone_torch": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "redstone_wire": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "reeds": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "sand": {
+      "materialField": "p",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "sandstone": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "sandstone_stairs": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "sapling": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "sea_lantern": {
+      "materialField": "s",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "skull": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "slime": {
+      "materialField": "B",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "snow": {
+      "materialField": "z",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "snow_layer": {
+      "materialField": "y",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "soul_sand": {
+      "materialField": "p",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "sponge": {
+      "materialField": "m",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "spruce_door": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "spruce_fence": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "spruce_fence_gate": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "spruce_stairs": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stained_glass": {
+      "materialField": "s",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stained_glass_pane": {
+      "materialField": "s",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stained_hardened_clay": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "standing_banner": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "standing_sign": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "sticky_piston": {
+      "materialField": "H",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stone": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stone_brick_stairs": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stone_button": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "stone_pressure_plate": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stone_slab": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stone_slab2": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stone_stairs": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "stonebrick": {
+      "materialField": "e",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "tallgrass": {
+      "materialField": "l",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "tnt": {
+      "materialField": "u",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "torch": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "trapdoor": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "trapped_chest": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "tripwire": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "tripwire_hook": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "unlit_redstone_torch": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "unpowered_comparator": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "unpowered_repeater": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "vine": {
+      "materialField": "l",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "wall_banner": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "wall_sign": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "water": {
+      "materialField": "h",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "waterlily": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "web": {
+      "materialField": "G",
+      "blocksMovement": false,
+      "solidForFluid": true
+    },
+    "wheat": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "wooden_button": {
+      "materialField": "q",
+      "blocksMovement": false,
+      "solidForFluid": false
+    },
+    "wooden_door": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "wooden_pressure_plate": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "wooden_slab": {
+      "materialField": "d",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "wool": {
+      "materialField": "n",
+      "blocksMovement": true,
+      "solidForFluid": true
+    },
+    "yellow_flower": {
+      "materialField": "k",
+      "blocksMovement": false,
+      "solidForFluid": false
+    }
+  }
+}
